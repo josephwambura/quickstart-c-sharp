@@ -1,4 +1,4 @@
-# Quickstarts for C-Sh
+# Quickstarts for C-Sharp
 
 A collection of quickstart samples demonstrating the CSharp in development. For more information, see https://dotnet.microsoft.com/languages/csharp.
 
