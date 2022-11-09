@@ -7,9 +7,9 @@ A collection of quickstart samples demonstrating the CSharp in development. For 
 You can open each of the following samples as a Visual Studio project, and run
 them.
 
-- [ExponentPower](Src/ConsoleApps/ExponentPower/README.md)
-- [GuessingGame](Src/ConsoleApps/GuessingGame/README.md)
-- [TicTacToeGame](Src/ConsoleApps/TicTacToeGame/README.md)
+- [ExponentPower](Src/ConsoleApps/ExponentPower)
+- [GuessingGame](Src/ConsoleApps/GuessingGame)
+- [TicTacToeGame](Src/ConsoleApps/TicTacToeGame)
 
 ## How to make contributions?
 Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
