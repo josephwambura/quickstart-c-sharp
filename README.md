@@ -9,6 +9,7 @@ them.
 
 - [ExponentPower](Src/ConsoleApps/ExponentPower/README.md)
 - [GuessingGame](Src/ConsoleApps/GuessingGame/README.md)
+- [TicTacToeGame](Src/ConsoleApps/TicTacToeGame/README.md)
 
 ## How to make contributions?
 Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
