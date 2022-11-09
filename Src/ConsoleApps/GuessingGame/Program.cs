@@ -46,7 +46,7 @@ do
     {
         outOfGuesses = true;
     }
-} while(guess != secretWord && !outOfGuesses);
+} while (guess != secretWord && !outOfGuesses);
 
 if (outOfGuesses)
     Console.WriteLine("You Lose!");
