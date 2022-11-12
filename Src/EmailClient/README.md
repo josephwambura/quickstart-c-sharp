@@ -2,15 +2,9 @@
 
 A collection of quickstart samples demonstrating the CSharp in development. For more information, see https://dotnet.microsoft.com/languages/csharp.
 
-## Samples
+## Current Sample - EmailClient
 
-You can open each of the following samples as a Visual Studio project, and run
-them.
-
-- [EmailClient](Src/ConsoleApps/EmailClient)
-- [ExponentPower](Src/ConsoleApps/ExponentPower)
-- [GuessingGame](Src/ConsoleApps/GuessingGame)
-- [TicTacToeGame](Src/ConsoleApps/TicTacToeGame)
+A simple usage of SMTP Email client.
 
 ## How to make contributions?
 Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
